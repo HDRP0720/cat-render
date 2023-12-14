@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: M_myFirstMaterial
+  m_Name: M_detailTexture
   m_Shader: {fileID: 4800000, guid: b34879da3ecebd64bbb17c490b3759c5, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
